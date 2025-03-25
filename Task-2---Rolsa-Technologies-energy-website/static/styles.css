@@ -1,0 +1,233 @@
+body {
+    background-color: #DBDBDB;
+}
+
+
+.container {
+    width: 2538px;
+    text-align: center;
+    border-style:groove;
+    border-color: black;
+    border-width: 3px;
+}
+
+
+
+
+
+
+/*Header + Nav bar*/
+header {
+    background-color: #F2F2F2;
+    height: 150px;
+    text-align: center;
+    text-anchor: middle;
+}
+nav {
+    background-color: #F2F2F2;
+    height: 130px;
+    text-align: center;
+    text-anchor: middle;
+    border-style:groove;
+    border-color: black;
+    border-width: 3px;
+    
+}
+.accent1 {
+    background-color:#79EDA0;
+    height: 5px;
+    border-style:groove;
+    border-color: black;
+    border-width: 3px;
+    
+}
+.accent2 {
+    background-color:#FFFFFF;
+    height: 3px;
+    border-style:groove;
+    border-color: black;
+    border-width: 3px;
+    
+}
+
+
+
+
+/*Href buttons*/
+a {
+    color: black;
+    font-size: 30px;
+    padding-top:15px;
+}
+
+.HomeNavButton {
+    border: black;
+    border-style: groove;
+    border-width: 4px;
+
+    background-color: #79EDA0;
+
+    height: 100px;
+    width: 115px;
+
+    margin: 15.0px 45.0px;
+
+}
+.BookingsNavButton {
+    border: black;
+    border-style: groove;
+    border-width: 4px;
+
+    background-color: #79EDA0;
+
+    border-radius: 8%;
+
+    height: 85px;
+    width: 220px;
+
+    margin: -115.0px 220.0px;
+
+    text-align: center;
+}
+.EducationResourcesnNavButton {
+    border: black;
+    border-style: groove;
+    border-width: 4px;
+    
+    background-color: #79EDA0;
+
+    border-radius: 8%;
+
+    height: 85px;
+    width: 220px;
+
+    margin: 22.0px 480.0px;
+}
+.CarbFootprintNavButton {
+    border: black;
+    border-style: groove;
+    border-width: 4px;
+
+    background-color: #79EDA0;
+
+    border-radius: 8%;
+
+    height: 85px;
+    width: 220px;
+
+    margin: -115.0px 740.0px;
+}
+.EnergyTrackerNavButton {
+    border: black;
+    border-style: groove;
+    border-width: 4px;
+
+    background-color: #79EDA0;
+
+    border-radius: 8%;
+
+    height: 85px;
+    width: 220px;
+
+    margin: 22.0px 1000.0px;
+}
+
+
+.Log-in-Sign-upNavButton {
+    border: black;
+    border-style: groove;
+    background-color: #0070C0;
+
+    border-radius: 20%;
+
+    height: 55px;
+    width: 160px;
+
+    margin: -100.0px 2130.0px;
+}
+.UserProfileNavButton {
+    border: black;
+    border-style: groove;
+    background-color: #0070C0;
+
+    border-radius: 100%;
+
+    height: 115px;
+    width: 115px;
+
+    margin: 6.0px 2370.0px;
+}
+
+
+
+
+/*Main body*/
+main {
+    height: 829px;
+}
+
+.RolsaTechTitle {
+    background-color: rgba(0, 0, 0, 0.562);
+
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+
+    width: 750px;
+    height: 100px;
+
+    margin: 30px 25px;
+    border-radius: 3%;
+}
+.RolsaP1 {
+    color: white;
+    font-size: 50px;
+    font-style:italic;
+    padding-top: 0px;
+    text-decoration-line: underline;
+
+    margin: 20.0px 20.0px;
+    text-align: left;
+}
+
+.MainTextBox {
+    background-color: #A6A6A6;
+
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+
+    width: 1150px;
+    height: 400px;
+
+    margin: 90px 40px;
+    border-radius: 3%;
+}
+.TextBoxP1 {
+    font-size: 30px;
+    font-style: normal;
+    color: black;
+
+    text-align:left;
+}
+
+/*Footer*/
+footer {
+    background-color: #79EDA0;
+    height: 264px;
+    border-style:groove;
+    border-color: black;
+    border-width: 5px;
+}
+.accent3 {
+    height: 5px;
+    background-color: #FFFFFF;
+    border-style:groove;
+    border-color: black;
+}
+.accent4 {
+    height: 10px;
+    background-color: #AEAEAE;
+    border-style:groove;
+    border-color: black;
+}
